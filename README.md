@@ -34,4 +34,4 @@
 ---
 
 ### 🔥 My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasiniK)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandun94x)
