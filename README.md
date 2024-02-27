@@ -14,7 +14,7 @@
 
 - :seedling: Exploring Technical Content.
 
-- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Pehansi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pehansi-karunaratne/)
+- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Yasini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pehansi-karunaratne/)
 
 ---
 ### 🛠️ Languages and Tools
@@ -34,4 +34,4 @@
 ---
 
 ### 🔥 My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandun94x)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasiniK)
