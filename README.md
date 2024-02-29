@@ -14,7 +14,7 @@
 
 - :seedling: Exploring Technical Content.
 
-- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Yasini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pehansi-karunaratne/)
+- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Yasini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasini-karunanayake)
 
 ---
 ### 🛠️ Languages and Tools
