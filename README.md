@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YasiniK&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/YasiniK)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YasiniK&data=followers,repositories,commits&theme=nautilus)](https://github.com/YasiniK)
 
 
 ---
