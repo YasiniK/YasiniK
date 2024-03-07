@@ -9,14 +9,11 @@
 ---
 ### 👩‍💻 About Me:
 
-👋I'm a passionate undergraduate student majoring in Data Science. I have a keen interest in leveraging data-driven insights to solve real-world problems and make informed decisions.
+👋I'm a passionate undergraduate student majoring in Artificial Intelligence and Data Science at Informatics Institute of Technology affiliated with Robert Gordon University UK. I have a keen interest in leveraging data-driven insights to solve real-world problems and make informed decisions.
 
-🔍As a budding data enthusiast, I'm constantly exploring new techniques and technologies in the field of data science. From data wrangling and preprocessing to machine learning modeling and visualization, I enjoy diving into every aspect of the data lifecycle.
+🔍As an aspiring data enthusiast, I'm constantly exploring new techniques and technologies in the field of data science. From data wrangling and preprocessing to machine learning modeling and visualization, I enjoy diving into every aspect of the data lifecycle.
 
 📫Feel free to reach out if you'd like to connect, collaborate, or simply chat about all things Data Science!
-
-
-
 
 ---
 ### Connect with me:
@@ -40,6 +37,9 @@
 </p>
 
 ---
+### 🛠️ Languages and Tools
 
+
+---
 ### 🔥 My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasiniK)
