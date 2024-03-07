@@ -9,10 +9,12 @@
 ---
 ### 👩‍💻 About Me:
 
+👋I'm a passionate undergraduate student majoring in Data Science. I have a keen interest in leveraging data-driven insights to solve real-world problems and make informed decisions.
 
-- :woman_student: I'm a AI & Data Science undergraduate student.
+🔍As a budding data enthusiast, I'm constantly exploring new techniques and technologies in the field of data science. From data wrangling and preprocessing to machine learning modeling and visualization, I enjoy diving into every aspect of the data lifecycle.
 
-- :seedling: Exploring Technical Content.
+📫Feel free to reach out if you'd like to connect, collaborate, or simply chat about all things Data Science!
+
 
 
 
@@ -24,49 +26,18 @@
 <a href="https://instagram.com/toweestom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://fb.com/YasiniKarunanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 
-
 </p>
 
 ---
 
-### 🛠️ Languages
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,r" />
-  </a>
-</p>
+### 🛠️ Languages and Tools
 
-- Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
----
-### 🛠️ Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,idea,pycharm,vscode,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,java,r,html,css,js,mysql,postgresql,aws,github,figma,idea,pycharm,vscode,anaconda"/>
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" alt="Power-BI" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
