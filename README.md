@@ -78,6 +78,9 @@
 ### 🔥 My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasiniK)
 
+---
 
+### :chart_with_upwards_trend: Activity :
 
+[![Yasini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YasiniK&bg_color=ffffff&color=000000&line=0c7db6&point=0c3fb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
